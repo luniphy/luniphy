@@ -24,7 +24,7 @@ My main strength is approaching complex problems analytically and turning abstra
 
 ### **Programming Languages**
 - Backend: **C#**, **Python**, **C++**
-- Frontend: **WPF**, **(Py)Qt**, **HTML**, **CSS**, **JavaScript**
+- Frontend: **WPF**, **MAUI**, **(Py)Qt**, **HTML**, **CSS**, **JavaScript**
 
 ### **Tools & Technologies**
 - Git & GitHub (Version control)
@@ -88,7 +88,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ### Smaller (educational) projects
 
-#### **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)** 👷🏻‍♂️ **[WORK IN PROGRESS]**
+#### **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)** 👷🏻‍♂️
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
