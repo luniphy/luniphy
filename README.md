@@ -1,6 +1,6 @@
 # Hi, I'm Lukas 👋
 
-Welcome to my GitHub portfolio! Here, I showcase my projects, skills, and areas of interest in IT, maths and physics.
+Welcome to my GitHub portfolio! Here, I showcase my projects, skills and areas of interest in IT, maths and physics.
 
 My long-term goal is to become a software developer at **DMG MORI**.
 
