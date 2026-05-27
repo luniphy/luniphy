@@ -69,7 +69,7 @@ Building a neural network from scratch using only Python and mathematical fundam
 [![WPF](https://img.shields.io/badge/WPF-512BD4)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics, numerical integration, and visualization while following a clean and maintainable repository structure.
+A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics, numerical integration, and visualization while following a clean and maintainable repository structure.
 
 **Key Skills:** Physics Simulations, Numerical Integration, Visualization, Repo Maintenance
 
@@ -95,7 +95,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 [![MAUI](https://img.shields.io/badge/MAUI-512BD4)](https://dotnet.microsoft.com/en-us/apps/maui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A simple worktime tracking app where employees enter their daily clock-in and clock-out times, and the app automatically calculates when they can leave work on Friday based on their weekly target hours.
+A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
 
 #### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)** 📋
 
@@ -110,7 +110,7 @@ A command-line task management application to deepen C++ OOP fundamentals. Clean
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
+Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across Austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
 
 #### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)** 🔧
 
