@@ -1,22 +1,22 @@
 # Hi, I'm Lukas 👋
 
-Welcome to my GitHub portfolio! Here, I showcase my projects, technical skills, and areas of interest in software engineering and physics.
+Welcome to my GitHub portfolio! Here, I showcase my projects, skills, and areas of interest in IT, maths and physics.
 
-My long-term goal is to contribute as a software developer at **DMG MORI**.
+My long-term goal is to become a software developer at **DMG MORI**.
 
 ---
 
 ## 🎯 About Me
 
-I'm a physicist (BSc) and math enthusiast with a strong interest in software engineering and data-driven problem solving. I'm 28 years old and an original "Allgäuer". I enjoy building technical projects that combine analytical thinking with practical implementation.
+I'm a physicist and math enthusiast with a strong interest in software developement and analytical problem solving. I'm 28 years old and originally from Allgäuer, Germany. I enjoy making useful and educational projects, that combine analytical thinking with practical implementation.
 
-Through my Physics degree, I developed a solid understanding of complex systems, mathematical modeling, and numerical methods. In addition, my coursework in numerical mathematics, machine learning, data analysis, and data management strengthened my skills in algorithmic thinking and structured software development.
+During my Physics degree, I've gained a strong fundation of complex systems, mathematical modeling and structured logical reasoning. In addition, my coursework in programming, numerical mathematics, machine learning, data analysis & management strengthened my skills in algorithmic thinking and data-driven problem solving.
 
-My main strength is approaching complex problems analytically and turning abstract concepts into functional software solutions. I have a strong drive to continuously learn new things in technology and science, and software engineering is the field where I most enjoy applying this curiosity. <br/><br/>
+My greatest strength is to tackle complex problems analytically, to come up with functional solutions via software and/or on paper. I have the drive to continuously learn new things in tech & science, and software engineering is the field where I enjoy applying this curiosity most. <br/><br/>
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at **DMG MORI**
-- 🎓 Background: Physics, Data Science & Software Development
+- 🎓 Background: Physics, Data Science
 
 ---
 
@@ -31,24 +31,27 @@ My main strength is approaching complex problems analytically and turning abstra
 - CI automation
 - SQL databases
 - .NET Framework & C# ecosystem incl. Visual Studio
-- Python libraries: NumPy, Pandas, Matplotlib
-- Linux/Windows environments
+- HTTP, SSH
+- Linux: Console, Bash scripts, CLI text processing, Permission & ownership management, Process monitoring etc.
+- Python: Jupyter, PyCharm, NumPy, Pandas, Matplotlib
   
 ### **Core Competencies**
-- Object-Oriented Programming and software design
-- Numerical methods and mathematical modeling
-- Data management, data analysis and machine learning fundamentals
-- API integration and data processing
-- Unit testing and effective debugging
-- Clean code and modular software architecture
-- Debugging, testing, and problem solving
-- Scientific and technical computing
+- Clean code
+- Modular software architecture
+- Object-Oriented Programming
+- Effective debugging
+- Unit testing
+- Data processing, management & analysis
+- Machine learning fundamentals
+- API integration
+- Numerical methods
+- Mathematical modeling
 
 ---
 
 ## 📚 Featured Projects (From comprehensive to concise)
 
-### 1. **[Neural Network for MNIST Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)** 🧠
+### 1. **[Neural Network for Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)** 🧠
 
 [![CI](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
@@ -138,14 +141,13 @@ I enjoy working on technically challenging problems where analytical thinking, m
 
 ---
 
-## 📧 Get in Touch
+## 📧 Contact me
 
 - **Email:** luniphy@gmail.com
 - **GitHub:** [@luniphys](https://github.com/luniphys)
-- **Open to:** Full-time software engineering opportunities and technical projects
 
 ---
 
 ## 📄 License
 
-All of my projects are under the MIT License. Feel free to do whatever you want with it! 🙂
+All of my projects are under the MIT License. So feel free to do whatever you want with it! 🙂
