@@ -6,13 +6,9 @@ My long-term goal is to become a software developer at **DMG MORI**.
 
 ---
 
-## 🎯 About Me
+##🧍‍♂️ About Me
 
-I'm a physicist and math enthusiast with a passion for software developement and analytical problem solving. I'm 28 years old and originally from Allgäu, Germany. I enjoy making useful and educational projects, that combine analytical thinking with practical implementation.
-
-During my Physics degree, I've gained a strong fundation of complex systems, mathematical modeling and structured logical reasoning. In addition, my coursework in programming, numerical mathematics, machine learning, data analysis & management strengthened my skills in algorithmic thinking and data-driven problem solving.
-
-My greatest strength is to tackle complex problems analytically, to come up with functional solutions via software and/or on paper. I have the drive to continuously learn new things in tech & science, and software engineering is the field where I enjoy applying this curiosity most. <br/><br/>
+I'm a physicist and math enthusiast with a passion for software developement and analytical problem solving. I'm 28 years old and originally from Allgäu, Germany. I enjoy making useful and educational projects, that combine structured logical reasoning with practical implementation. My greatest strength is to tackle complex problems analytically, to come up with functional solutions via software and/or on paper. 🙂 <br/><br/>
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at **DMG MORI**
@@ -45,7 +41,7 @@ My greatest strength is to tackle complex problems analytically, to come up with
 - Machine learning fundamentals
 - API integration
 - Numerical methods
-- Mathematical modeling
+- Mathematical modeling of complex systems
 
 ---
 
