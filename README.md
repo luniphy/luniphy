@@ -1,4 +1,4 @@
-# Hi, I'm Lukas 👋
+# Hi, I'm Lukas 👋🏼
 
 Welcome to my GitHub portfolio! Here, I showcase my projects, skills and areas of interest in IT, maths and physics.
 
