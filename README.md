@@ -11,8 +11,8 @@ My long-term goal is to become a software developer at **DMG MORI**.
 I'm a physicist and math enthusiast with a passion for software developement and analytical problem solving. I'm 28 years old and originally from Allgäu, Germany. I enjoy making useful and educational projects, that combine structured logical reasoning with practical implementation. My greatest strength is to tackle complex problems analytically, to come up with functional solutions via software and/or on paper. <br/><br/>
 
 - 📍 Location: Allgäu, Germany
-- 💼 Target Role: Software Developer at **DMG MORI**
 - 🎓 Background: Physics, Data Science
+- 💼 Target Role: Software Developer
 
 ---
 
@@ -45,9 +45,9 @@ I'm a physicist and math enthusiast with a passion for software developement and
 
 ---
 
-## 📚 Featured Projects (From comprehensive to concise)
+## Featured Projects (From comprehensive to concise)
 
-### 1. **[Neural Network for Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)** 🧠
+### 1. **[Neural Network for Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)**
 
 [![CI](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
@@ -60,7 +60,7 @@ Building a neural network from scratch using only Python and mathematical fundam
 
 ---
 
-### 2. **[Double Pendulum Simulation](https://github.com/luniphys/double-pendulum)** **(C#)** 🌀
+### 2. **[Double Pendulum Simulation](https://github.com/luniphys/double-pendulum)** **(C#)**
 
 [![CI](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
@@ -74,7 +74,7 @@ A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanic
 
 ---
 
-### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)** 🏁
+### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -87,7 +87,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ### Smaller (educational) projects
 
-#### **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)** 👷🏻‍♂️
+#### **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -96,14 +96,14 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
 
-#### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)** 📋
+#### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A command-line task management application to deepen C++ OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
 
-#### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)** ⛅
+#### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
@@ -111,29 +111,19 @@ A command-line task management application to deepen C++ OOP fundamentals. Clean
 
 Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across Austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
 
-#### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)** 🔧
+#### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development in C++.
 
-#### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** **(Python)** 🔬
+#### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
-
----
-
-## 🎯 Why DMG MORI?
-
-**DMG MORI** particularly interests me because the company combines advanced software development with highly sophisticated industrial systems. I am especially motivated by software that directly contributes to precision manufacturing, automation, and data-driven optimization in real-world environments.
-
-With my background in physics, numerical methods, and software development, I am particularly interested in applications involving intelligent machine systems, industrial digitalization, simulation, and process optimization.
-
-I enjoy working on technically challenging problems where analytical thinking, mathematical understanding and practical software engineering come together. As an Allgäuer, I believe there is no better local environment than **DMG MORI** to pursue this kind of work.
 
 ---
 
