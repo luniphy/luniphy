@@ -77,6 +77,7 @@ A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanic
 
 ### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)**
 
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/trackmania-medals)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
