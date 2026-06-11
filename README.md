@@ -89,9 +89,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ---
 
-### Smaller (educational) projects
-
-#### **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
+### 4. **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -99,6 +97,10 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
+
+---
+
+### Smaller (educational) projects
 
 #### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)**
 
