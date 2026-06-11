@@ -8,11 +8,10 @@ My long-term goal is to become a software developer at **DMG MORI**.
 
 ## 🙂 About Me
 
-I'm a physicist and math enthusiast with a passion for software developement and analytical problem solving. I'm 28 years old and originally from Allgäu, Germany. I enjoy making useful and educational projects, that combine structured logical reasoning with practical implementation. My greatest strength is to tackle complex problems analytically, to come up with functional solutions via software and/or on paper. <br/><br/>
+I'm a physicist and math enthusiast with a passion for software developement and analytical problem solving. I'm 28 years old and originally from Allgäu, Germany. I enjoy making useful and educational projects, that combine structured logical reasoning with practical implementation. <br/><br/>
 
-- 📍 Location: Allgäu, Germany
+- 📍 Allgäu, Germany
 - 🎓 Background: Physics, Data Science
-- 💼 Target Role: Software Developer
 
 ---
 
@@ -23,25 +22,28 @@ I'm a physicist and math enthusiast with a passion for software developement and
 - Frontend: **WPF**, **MAUI**, **(Py)Qt**, **HTML**, **CSS**, **JavaScript**
 
 ### **Tools & Technologies**
-- Git & GitHub (Version control)
+- Version control (Git & GitHub)
 - CI automation
+- Docker containerization
 - SQL databases
-- .NET Framework & C# ecosystem incl. Visual Studio
-- HTTP, SSH
+- .NET Framework & C# ecosystem
+- Visual Studio & VS Code
+- HTTP, SSH, WebSocket network protocols
 - Linux: Console, Bash scripts, CLI text processing, Permission & ownership management, Process monitoring etc.
-- Python: Jupyter, PyCharm, NumPy, Pandas, Matplotlib
+- Python: PyCharm, Jupyter, NumPy, Pandas, Matplotlib
   
 ### **Core Competencies**
+- Modular software architecture (MVVM)
 - Clean code
-- Modular software architecture
 - Object-Oriented Programming
 - Effective debugging
 - Unit testing
 - Data processing, management & analysis
-- Machine learning fundamentals
+- Machine learning
 - API integration
 - Numerical methods
 - Mathematical modeling of complex systems
+- Analytical problem solving
 
 ---
 
@@ -133,7 +135,7 @@ An academic project completed during the Digital Science Minor, analyzing optica
 
 - **Email:** luniphy@gmail.com
 - **GitHub:** [@luniphys](https://github.com/luniphys)
-- **Docker Hub** [@luniphys](https://hub.docker.com/r/luniphys)
+- **Docker Hub** [@luniphys](https://hub.docker.com/u/luniphys)
 
 ---
 
