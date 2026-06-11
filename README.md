@@ -47,7 +47,7 @@ I'm a physicist and math enthusiast with a passion for software developement and
 
 ---
 
-## Featured Projects (From comprehensive to concise)
+## Projects
 
 ### 1. **[Neural Network for Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)**
 
