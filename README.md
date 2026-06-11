@@ -15,39 +15,7 @@ I'm a physicist and math enthusiast with a passion for software developement and
 
 ---
 
-## 💻 Technical Skills
-
-### **Programming Languages**
-- Backend: **C#**, **Python**, **C++**
-- Frontend: **WPF**, **MAUI**, **(Py)Qt**, **HTML**, **CSS**, **JavaScript**
-
-### **Tools & Technologies**
-- Version control (Git & GitHub)
-- CI automation
-- Docker containerization
-- SQL databases
-- .NET Framework & C# ecosystem
-- Visual Studio & VS Code
-- HTTP, SSH, WebSocket network protocols
-- Linux: Console, Bash scripts, CLI text processing, Permission & ownership management, Process monitoring etc.
-- Python: PyCharm, Jupyter, NumPy, Pandas, Matplotlib
-  
-### **Core Competencies**
-- Modular software architecture (MVVM)
-- Clean code
-- Object-Oriented Programming
-- Effective debugging
-- Unit testing
-- Data processing, management & analysis
-- Machine learning
-- API integration
-- Numerical methods
-- Mathematical modeling of complex systems
-- Analytical problem solving
-
----
-
-## Projects
+## 🗂️ Projects
 
 ### 1. **[Neural Network for Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)**
 
@@ -130,6 +98,38 @@ An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
+
+---
+
+## 💻 Technical Skills
+
+### **Programming Languages**
+- Backend: **C#**, **Python**, **C++**
+- Frontend: **WPF**, **MAUI**, **(Py)Qt**, **HTML**, **CSS**, **JavaScript**
+
+### **Tools & Technologies**
+- Version control (Git & GitHub)
+- CI automation
+- Docker containerization
+- SQL databases
+- .NET Framework & C# ecosystem
+- Visual Studio & VS Code
+- HTTP, SSH, WebSocket network protocols
+- Linux: Console, Bash scripts, CLI text processing, Permission & ownership management, Process monitoring etc.
+- Python: PyCharm, Jupyter, NumPy, Pandas, Matplotlib
+  
+### **Core Competencies**
+- Modular software architecture (MVVM)
+- Clean code
+- Object-Oriented Programming
+- Effective debugging
+- Unit testing
+- Data processing, management & analysis
+- Machine learning
+- API integration
+- Numerical methods
+- Mathematical modeling of complex systems
+- Analytical problem solving
 
 ---
 
