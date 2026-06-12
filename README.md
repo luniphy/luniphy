@@ -72,6 +72,7 @@ A cross-platform .NET MAUI app for workers to track their weekly working time. T
 
 #### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)**
 
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/taskmanager)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
