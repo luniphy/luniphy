@@ -34,9 +34,8 @@ Building a neural network from scratch using only Python and mathematical fundam
 ### 2. **[Double Pendulum Simulation](https://github.com/luniphys/double-pendulum)** **(C#)**
 
 [![CI](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![WPF](https://img.shields.io/badge/WPF-512BD4)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/)
+[![.NET](https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics, numerical integration, and visualization while following a clean and maintainable repository structure.
@@ -59,9 +58,8 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ### 4. **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![MAUI](https://img.shields.io/badge/MAUI-512BD4)](https://dotnet.microsoft.com/en-us/apps/maui)
+[![.NET](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
