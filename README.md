@@ -36,6 +36,7 @@ Building a neural network from scratch using only Python and mathematical fundam
 [![CI](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/double-pendulum)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics, numerical integration, and visualization while following a clean and maintainable repository structure.
