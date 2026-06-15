@@ -35,7 +35,7 @@ Building a neural network from scratch using only Python and mathematical fundam
 
 [![CI](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
+[![.NET](https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/double-pendulum)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -60,7 +60,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 ### 4. **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
+[![.NET](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-10.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
