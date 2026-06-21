@@ -41,7 +41,7 @@ Building a neural network from scratch using only Python and mathematical fundam
 
 A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics, numerical integration, and visualization while following a clean and maintainable repository structure.
 
-**Key Skills:** Physics Simulations, Numerical Integration, Visualization, Repo Maintenance
+**Key Skills:** Physics Simulations, Numerical Integration, Visualization, Repo Maintenance, MVVM
 
 ---
 
@@ -64,6 +64,8 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
+
+**Key Skills:** Time algorithmic, MVVM, Repo Maintenance
 
 ---
 
