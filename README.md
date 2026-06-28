@@ -45,7 +45,19 @@ A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanic
 
 ---
 
-### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)**
+### 3. **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
+
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-10.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
+
+**Key Skills:** Time algorithmic, MVVM, Repo Maintenance, Proven in real-world use
+
+---
+
+### 4. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/trackmania-medals)
@@ -54,18 +66,6 @@ A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanic
 A practical tool using the Nadeo API to analyze TrackMania medal progress and identify missing Gold medals across certain racing tracks. This project demonstrates API integration, automated data processing, and practical problem solving.
 
 **Key Skills:** API Integration, Data management, RESTful APIs
-
----
-
-### 4. **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
-
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-10.0)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-A cross-platform .NET MAUI app for workers to track their weekly working time. The app then calculates when they can leave work based on numerous adjustable factors like weekly target hours, break durations, overtime etc.
-
-**Key Skills:** Time algorithmic, MVVM, Repo Maintenance
 
 ---
 
