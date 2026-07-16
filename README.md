@@ -98,7 +98,7 @@ A command-line task management application to deepen C++ OOP fundamentals.
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across Austria.
+Academic group project from the Digital Science Minor about retrieving, processing and analyzing weather data from stations across Austria.
 
 ---
 
@@ -107,7 +107,7 @@ Academic group project from the Digital Science minor about retrieving, processi
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++.
+An OOP exercise demonstrating polymorphism, downcasting, upcasting and diamond inheritance patterns in C++.
 
 ---
 
