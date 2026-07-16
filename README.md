@@ -71,8 +71,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ### Smaller (educational) projects
 
-
-#### **[Fourier Series Visualizer](https://github.com/luniphys/fourier-visualizer)** **(HTML/CSS/JS)**
+#### **[Fourier Series Visualizer](https://github.com/luniphys/fourier-visualizer)** **(JavaScript)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23663399.svg?logo=css&logoColor=white)
@@ -81,13 +80,17 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 An interactive web tool for exploring on how Fourier series approximate periodic functions.
 
+---
+
 #### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/taskmanager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A command-line task management application to deepen C++ OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
+A command-line task management application to deepen C++ OOP fundamentals.
+
+---
 
 #### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)**
 
@@ -95,21 +98,25 @@ A command-line task management application to deepen C++ OOP fundamentals. Clean
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across Austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
+Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across Austria.
+
+---
 
 #### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development in C++.
+An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++.
+
+---
 
 #### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
+An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices.
 
 ---
 
