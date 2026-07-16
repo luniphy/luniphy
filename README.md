@@ -71,6 +71,16 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ### Smaller (educational) projects
 
+
+#### **[Fourier Series Visualizer](https://github.com/luniphys/fourier-visualizer)** **(HTML/CSS/JS)**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23663399.svg?logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+An interactive web tool for exploring on how Fourier series approximate periodic functions.
+
 #### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
