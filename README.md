@@ -157,7 +157,7 @@ An academic project completed during the Digital Science Minor, analyzing optica
 
 - **Email:** luniphy@proton.me
 - **GitHub:** [@luniphy](https://github.com/luniphy)
-- **Docker Hub** [@luniphy](https://hub.docker.com/u/luniphy)
+- **Docker Hub** [@luniphys](https://hub.docker.com/u/luniphys)
 
 ---
 
