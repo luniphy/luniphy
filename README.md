@@ -8,7 +8,7 @@ My long-term goal is to become a software developer at **DMG MORI**.
 
 ## 🙂 About Me
 
-I'm a physicist and math enthusiast with a passion for software developement and analytical problem solving. I'm 28 years old and originally from Allgäu, Germany. I enjoy making useful and educational projects, that combine structured logical reasoning with practical implementation. <br/><br/>
+I'm a physicist and math enthusiast with a passion for software developement and analytical problem solving. I'm 29 years old and originally from Allgäu, Germany. I enjoy making useful and educational projects, that combine structured logical reasoning with practical implementation. <br/><br/>
 
 - 📍 Allgäu, Germany
 - 🎓 Background: Physics, Data Science
@@ -17,9 +17,9 @@ I'm a physicist and math enthusiast with a passion for software developement and
 
 ## 🗂️ Projects
 
-### 1. **[Neural Network for Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)**
+### 1. **[Neural Network for Digit Recognition](https://github.com/luniphy/number-neuralnetwork)** **(Python)**
 
-[![CI](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml)
+[![CI](https://github.com/luniphy/number-neuralnetwork/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphy/number-neuralnetwork/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![Qt](https://img.shields.io/badge/PyQt-2CDE85?logo=Qt&logoColor=fff)](https://www.qt.io/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/number-neuralnetwork)
@@ -31,9 +31,9 @@ Building a neural network from scratch using only Python and mathematical fundam
 
 ---
 
-### 2. **[Double Pendulum Simulation](https://github.com/luniphys/double-pendulum)** **(C#)**
+### 2. **[Double Pendulum Simulation](https://github.com/luniphy/double-pendulum)** **(C#)**
 
-[![CI](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml)
+[![CI](https://github.com/luniphy/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphy/double-pendulum/actions/workflows/ci.yml)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/double-pendulum)
@@ -45,7 +45,7 @@ A WPF simulation of a double pendulum demonstrating chaotic behavior in mechanic
 
 ---
 
-### 3. **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)**
+### 3. **[Flextime Calculator App](https://github.com/luniphy/flextime-calculator)** **(C#)**
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-10.0)
@@ -57,7 +57,7 @@ A cross-platform .NET MAUI app for workers to track their weekly working time. T
 
 ---
 
-### 4. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)**
+### 4. **[TrackMania Medal Analyzer](https://github.com/luniphy/trackmania-medals)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphys/trackmania-medals)
@@ -71,7 +71,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ### Smaller (educational) projects
 
-#### **[Fourier Series Visualizer](https://github.com/luniphys/fourier-visualizer)** **(JavaScript)**
+#### **[Fourier Series Visualizer](https://github.com/luniphy/fourier-visualizer)** **(JavaScript)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23663399.svg?logo=css&logoColor=white)
@@ -82,7 +82,7 @@ An interactive web tool for exploring on how Fourier series approximate periodic
 
 ---
 
-#### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)**
+#### **[Task Manager Application](https://github.com/luniphy/taskmanager)** **(C++)**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
@@ -93,7 +93,7 @@ A command-line task management application to deepen C++ OOP fundamentals.
 
 ---
 
-#### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)**
+#### **[Weather Station Database](https://github.com/luniphy/climate-database)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
@@ -103,7 +103,7 @@ Academic group project from the Digital Science Minor about retrieving, processi
 
 ---
 
-#### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)**
+#### **[Device Manager](https://github.com/luniphy/device-manager)** **(C++)**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -112,7 +112,7 @@ An OOP exercise demonstrating polymorphism, downcasting, upcasting and diamond i
 
 ---
 
-#### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** **(Python)**
+#### **[Ray Transfer Matrix Analysis](https://github.com/luniphy/ray-transfer-matrix-analysis)** **(Python)**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
