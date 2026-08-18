@@ -131,7 +131,7 @@ An academic project completed during the Digital Science Minor, analyzing optica
 - Version control (Git & GitHub)
 - CI automation
 - Docker containerization
-- SQL databases
+- SQL/NoSQL databases
 - .NET Framework & C# ecosystem
 - Visual Studio & VS Code
 - HTTP, SSH, WebSocket network protocols
