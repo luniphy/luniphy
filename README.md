@@ -43,9 +43,9 @@ A neural network that can recognize handwritten digits. It is built entirely fro
 [![GHCR](https://img.shields.io/badge/GHCR-181717?logo=github)](https://github.com/luniphy/double-pendulum/pkgs/container/double-pendulum)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/double-pendulum/blob/main/LICENSE)
 
-A desktop application that simulates a mechanical double pendulum in real time. The underlying physics equations are solved numerically using the 4th-order Runge-Kutta method. Physical and simulation parameters can be adjusted live via sliders.
+A .NET WPF & CLI desktop application that simulates a mechanical double pendulum in real time. The underlying physics equations are solved numerically using the 4th-order Runge-Kutta method. Physical parameters (arm lengths, masses, initial angles, damping), simulation speed as well as the trail length are adjustable live via sliders.
 
-- Built with an MVVM architecture, this project explores chaotic behavior in mechanical systems, blending physics, numerical integration and visualization within a clean, maintainable repository structure.
+- This project explores chaotic behavior in mechanical systems, connecting physics, numerical integration and visualization within a clean, maintainable repository structure. The WPF application follows an **MVVM** architecture.
 
 ---
 
@@ -57,7 +57,7 @@ A desktop application that simulates a mechanical double pendulum in real time. 
 
 A cross-platform .NET MAUI app for workers to track their weekly working time. Based on numerous adjustable factors like weekly target hours, break durations, overtime, late shift and more, it calculates when they can leave work on Friday and shows daily and weekly cumulative overtimes/deficits.
 
-- Built with an MVVM architecture and a clean, maintainable repository structure, this project focuses on real-world use, implementation and adaptation based on actual user feedback.
+- Built with an **MVVM** architecture and a clean, maintainable repository structure, this project focuses on real-world use, implementation and adaptation based on actual user feedback.
 
 ---
 
@@ -71,7 +71,7 @@ A cross-platform .NET MAUI app for workers to track their weekly working time. B
 
 A practical command-line tool that helps Trackmania players check their medal progress across all *Track of the Day* maps. It connects to the *Nadeo* API to sum total medals earned and identify tracks with missing Gold medals.
 
-- This project features API integration, proper authentication token handling and automated data processing.
+- This project features **API** integration, proper authentication token handling and automated data processing.
 
 ---
 
