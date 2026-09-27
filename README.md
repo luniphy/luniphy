@@ -107,7 +107,7 @@ Interactive web tool for visualizing how Fourier series approximate periodic wav
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/climate-database/blob/main/LICENSE)
 
-Academic group project about retrieving, processing & analyzing weather station data across Austria. Parsing XML API responses and storing results in a SQLite database for temperature anomaly analysis. Originally completed during the Digital Science Minor.
+Academic group project about retrieving, processing & analyzing weather station data across Austria. Parsing XML API responses and storing results in a SQLite database for temperature anomaly analysis.
 
 ---
 
