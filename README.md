@@ -71,7 +71,7 @@ A cross-platform .NET MAUI app for workers to track their weekly working time. B
 
 A practical command-line tool that helps Trackmania players check their medal progress across all *Track of the Day* maps. It connects to the *Nadeo* API to sum total medals earned and identify tracks with missing Gold medals.
 
-- This project demonstrates API integration, proper authentication token handling and automated data processing.
+- This project features API integration, proper authentication token handling and automated data processing.
 
 ---
 
