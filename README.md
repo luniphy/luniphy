@@ -29,7 +29,7 @@ I'm 29 years old and originally from the Allgäu, Germany. I've studied physics 
 
 A neural network that can recognize handwritten digits. It is built entirely from scratch without any machine learning frameworks and trained using the MNIST dataset. A **PyQt6** GUI is included for interactive drawing and live training.
 
-- This project focuses on understanding and implementing the underlying logic of neural networks (forward and backward propagation to gradient-based training). Equal attention was given to building a clean, user-friendly GUI that makes the training and prediction process simple to interact with while remaining informative and easy to understand.
+- This project focuses on understanding and implementing the underlying logic of neural networks (forward and backward propagation to gradient-based training). Equal focus went into building a clean, user-friendly GUI that makes the training and prediction process simple to interact with and informative.
 
 ---
 
