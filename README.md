@@ -27,9 +27,9 @@ I'm 29 years old and originally from the Allgäu, Germany. I've studied physics 
 [![GHCR](https://img.shields.io/badge/GHCR-181717?logo=github)](https://github.com/luniphy/number-neuralnetwork/pkgs/container/number-neuralnetwork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/number-neuralnetwork/blob/main/LICENSE)
 
-A neural network that can recognize handwritten digits. It is built entirely from scratch without any machine learning frameworks and trained using the MNIST dataset. A PyQt6 GUI is included for interactive drawing and live training.
+A neural network that can recognize handwritten digits. It is built entirely from scratch without any machine learning frameworks and trained using the MNIST dataset. A **PyQt6** GUI is included for interactive drawing and live training.
 
-- Rather than relying on external ML libraries, this project focuses on understanding and implementing the underlying logic of neural networks (forward and backward propagation to gradient-based training)
+- This project focuses on understanding and implementing the underlying logic of neural networks (forward and backward propagation to gradient-based training). Equal attention was given to building a clean, user-friendly GUI that makes the training and prediction process simple to interact with while remaining informative and easy to understand.
 
 ---
 
@@ -43,9 +43,9 @@ A neural network that can recognize handwritten digits. It is built entirely fro
 [![GHCR](https://img.shields.io/badge/GHCR-181717?logo=github)](https://github.com/luniphy/double-pendulum/pkgs/container/double-pendulum)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/double-pendulum/blob/main/LICENSE)
 
-A .NET WPF & CLI desktop application that simulates a mechanical double pendulum in real time. The underlying physics equations are solved numerically using the 4th-order Runge-Kutta method. Physical parameters (arm lengths, masses, initial angles, damping), simulation speed as well as the trail length are adjustable live via sliders.
+A **.NET WPF** & CLI desktop application that simulates a mechanical double pendulum in real time. The underlying physics equations are solved numerically using the 4th-order Runge-Kutta method. Physical parameters (arm lengths, masses, initial angles, damping), simulation speed as well as the trail length are adjustable live via sliders.
 
-- This project explores chaotic behavior in mechanical systems, connecting physics, numerical integration and visualization within a clean, maintainable repository structure. The WPF application follows an **MVVM** architecture.
+- This project explores chaotic behavior in mechanical systems, connecting physics, numerical integration and visualization within a clean, maintainable repository structure. The **WPF** application follows an **MVVM** architecture.
 
 ---
 
@@ -55,7 +55,7 @@ A .NET WPF & CLI desktop application that simulates a mechanical double pendulum
 [![.NET](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-10.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/flextime-calculator/blob/main/LICENSE)
 
-A cross-platform .NET MAUI app for workers to track their weekly working time. Based on numerous adjustable factors like weekly target hours, break durations, overtime, late shift and more, it calculates when they can leave work on Friday and shows daily and weekly cumulative overtimes/deficits.
+A cross-platform **.NET MAUI** app for workers to track their weekly working time. Based on numerous adjustable factors like weekly target hours, break durations, overtime, late shift and more, it calculates when they can leave work on Friday and shows daily and weekly cumulative overtimes/deficits.
 
 - Built with an **MVVM** architecture and a clean, maintainable repository structure, this project focuses on real-world use, implementation and adaptation based on actual user feedback.
 
@@ -69,7 +69,7 @@ A cross-platform .NET MAUI app for workers to track their weekly working time. B
 [![GHCR](https://img.shields.io/badge/GHCR-181717?logo=github)](https://github.com/luniphy/trackmania-medals/pkgs/container/trackmania-medals)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/trackmania-medals/blob/main/LICENSE)
 
-A practical command-line tool that helps Trackmania players check their medal progress across all *Track of the Day* maps. It connects to the *Nadeo* API to sum total medals earned and identify tracks with missing Gold medals.
+A practical command-line tool that helps Trackmania players check their medal progress across all *Track of the Day* maps. It connects to the **Nadeo** API to sum total medals earned and identify tracks with missing Gold medals.
 
 - This project features **API** integration, proper authentication token handling and automated data processing.
 
