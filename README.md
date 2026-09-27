@@ -116,7 +116,7 @@ Academic group project about retrieving, processing & analyzing weather station 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/ray-transfer-matrix-analysis/blob/main/LICENSE)
 
-A Python CLI tool that uses Ray Transfer Matrix Analysis to compute how light rays pass through refractive surfaces, thin lenses and mirrors. Originally an academic project completed during the Digital Science Minor.
+A Python CLI tool that uses Ray Transfer Matrix Analysis to compute how light rays pass through refractive surfaces, thin lenses and mirrors. (Academic project for the Digital Science Minor).
 
 ---
 
