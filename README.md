@@ -132,7 +132,7 @@ A small C++ OOP study project, modeling electronic devices to practice polymorph
 ## 💻 Technical Skills
 
 ### **Programming Languages**
-- **C#**, **Python**, **C++**
+- **Python**, **C#**, **C++**
 - **HTML**, **CSS**, **JavaScript**
 
 ### **Frameworks & Development**
@@ -152,8 +152,8 @@ A small C++ OOP study project, modeling electronic devices to practice polymorph
 - Modular software architecture **(MVVM)**
 - **Clean code** and maintainable software design
 - Effective debugging and troubleshooting
-- **Unit testing**
-- Data processing, management & analysis
+- Unit testing
+- **Data** processing, management & analysis
 - **Machine learning**
 - **API** integration
 - Numerical methods
