@@ -120,15 +120,6 @@ A Python CLI tool that uses Ray Transfer Matrix Analysis to compute how light ra
 
 ---
 
-#### **[Device Manager](https://github.com/luniphy/device-manager)** **(C++)**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/device-manager/blob/main/LICENSE)
-
-A small C++ OOP study project, modeling electronic devices to practice polymorphism, up/downcasting and diamond inheritance.
-
----
-
 ## 💻 Technical Skills
 
 ### **Programming Languages**
