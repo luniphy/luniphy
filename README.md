@@ -33,7 +33,7 @@ A neural network that can recognize handwritten digits. It is built entirely fro
 
 ---
 
-### 2. **[Double Pendulum](https://github.com/luniphy/double-pendulum)** **(C#/WPF)**
+### 2. **[Double Pendulum](https://github.com/luniphy/double-pendulum)** **(C#/WPF/MongoDB)**
 
 [![CI](https://github.com/luniphy/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphy/double-pendulum/actions/workflows/ci.yml)
 [![CD](https://github.com/luniphy/double-pendulum/actions/workflows/cd.yml/badge.svg)](https://github.com/luniphy/double-pendulum/actions/workflows/cd.yml)
