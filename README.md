@@ -46,7 +46,7 @@ A neural network that can recognize handwritten digits. It is built entirely fro
 
 A **.NET WPF** & CLI desktop application that simulates a mechanical double pendulum in real time. The underlying physics equations are solved numerically using the 4th-order Runge-Kutta method. Physical parameters (arm lengths, masses, initial angles, damping), simulation speed as well as the trail length are adjustable live via sliders.
 
-- This project explores chaotic behavior in mechanical systems, connecting physics, numerical integration and visualization within a clean, maintainable repository structure. The **WPF** application follows an **MVVM** architecture.
+- This project explores chaotic behavior in mechanical systems, connecting physics, numerical integration and visualization within a clean, maintainable repository structure. The **WPF** application follows an **MVVM** architecture and the CLI part offers exports to a **MongoDB Atlas** database.
 
 ---
 
