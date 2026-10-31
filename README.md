@@ -103,25 +103,6 @@ Interactive web tool for visualizing how Fourier series approximate periodic wav
 
 ---
 
-#### **[Weather Station Database](https://github.com/luniphy/climate-database)** **(Python/SQL)**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/climate-database/blob/main/LICENSE)
-
-Academic group project about retrieving, processing & analyzing weather station data across Austria. Parsing XML API responses and storing results in a SQLite database for temperature anomaly analysis.
-
----
-
-#### **[Ray Transfer Matrix Analysis](https://github.com/luniphy/ray-transfer-matrix-analysis)** **(Python)**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/ray-transfer-matrix-analysis/blob/main/LICENSE)
-
-A Python CLI tool that uses Ray Transfer Matrix Analysis to compute how light rays pass through refractive surfaces, thin lenses and mirrors. (Academic project for the Digital Science Minor).
-
----
-
 ## 💻 Technical Skills
 
 ### **Programming Languages**
