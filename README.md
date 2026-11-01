@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio!
 
 Here, you'll find my projects, skills and stuff I'm into around **IT**, **Maths** and **Physics**.
 
----
+
 
 ## 🙂 About Me
 
@@ -13,7 +13,9 @@ I'm 29 years old and originally from the Allgäu, Germany. I've studied physics 
 - 📍 Allgäu, Germany
 - 🎓 Physics, Data Science, Programming
 
----
+
+<br></br>
+
 
 ## 🗂️ Projects
 
@@ -101,7 +103,9 @@ A practical command-line tool that helps Trackmania players check their medal pr
 
 Interactive web tool for visualizing how Fourier series approximate periodic waveforms with adjustable parameters.
 
----
+
+<br></br>
+
 
 ## 💻 Technical Skills
 
@@ -134,7 +138,9 @@ Interactive web tool for visualizing how Fourier series approximate periodic wav
 - Mathematical modeling of complex systems
 - Analytical problem solving
 
----
+
+<br></br>
+
 
 ## 📧 Contact me
 
@@ -142,7 +148,7 @@ Interactive web tool for visualizing how Fourier series approximate periodic wav
 - **GitHub:** [@luniphy](https://github.com/luniphy)
 - **Docker Hub** [@luniphy](https://hub.docker.com/u/luniphy)
 
----
+
 
 ## 📄 License
 
