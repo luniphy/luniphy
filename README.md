@@ -62,20 +62,6 @@ A cross-platform **.NET MAUI** app for workers to track their weekly working tim
 
 ---
 
-### 4. **[Trackmania TOTD Gold Medal Tracker](https://github.com/luniphy/trackmania-medals)** **(Python)**
-
-[![CD](https://github.com/luniphy/trackmania-medals/actions/workflows/cd.yml/badge.svg)](https://github.com/luniphy/trackmania-medals/actions/workflows/cd.yml)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphy/trackmania-medals)
-[![GHCR](https://img.shields.io/badge/GHCR-181717?logo=github)](https://github.com/luniphy/trackmania-medals/pkgs/container/trackmania-medals)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/trackmania-medals/blob/main/LICENSE)
-
-A practical command-line tool that helps Trackmania players check their medal progress across all *Track of the Day* maps. It connects to the **Nadeo** API to sum total medals earned and identify tracks with missing Gold medals.
-
-- This project features **API** integration, proper authentication token handling and automated data processing.
-
----
-
 ### Smaller projects
 
 #### **[Task Manager](https://github.com/luniphy/taskmanager)** **(C++/SQL)**
@@ -88,7 +74,21 @@ A practical command-line tool that helps Trackmania players check their medal pr
 [![GHCR](https://img.shields.io/badge/GHCR-181717?logo=github)](https://github.com/luniphy/taskmanager/pkgs/container/taskmanager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/taskmanager/blob/main/LICENSE)
 
-A console-based C++ task manager app using SQLite. Built to practice OOP, enums, SQL and CLI user input handling.
+A console-based C++ task manager app using SQLite with optional MongoDB mirror. Built to practice OOP, enums, user input handling and SQL/NoSQL integration.
+
+---
+
+### **[Trackmania TOTD Gold Medal Tracker](https://github.com/luniphy/trackmania-medals)** **(Python)**
+
+[![CD](https://github.com/luniphy/trackmania-medals/actions/workflows/cd.yml/badge.svg)](https://github.com/luniphy/trackmania-medals/actions/workflows/cd.yml)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://hub.docker.com/r/luniphy/trackmania-medals)
+[![GHCR](https://img.shields.io/badge/GHCR-181717?logo=github)](https://github.com/luniphy/trackmania-medals/pkgs/container/trackmania-medals)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luniphy/trackmania-medals/blob/main/LICENSE)
+
+A practical command-line tool that helps Trackmania players check their medal progress across all *Track of the Day* maps. It connects to the **Nadeo** API to sum total medals earned and identify tracks with missing Gold medals.
+
+- Features **API** integration, proper authentication token handling and automated data processing.
 
 ---
 
