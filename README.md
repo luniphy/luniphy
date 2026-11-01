@@ -5,7 +5,6 @@ Welcome to my GitHub portfolio!
 Here, you'll find my projects, skills and stuff I'm into around **IT**, **Maths** and **Physics**.
 
 
-
 ## 🙂 About Me
 
 I'm 29 years old and originally from the Allgäu, Germany. I've studied physics at the University of Innsbruck, with Data Science and Programming as a big part of my coursework. One thing that really stuck with me from that time, is tackling complex problems analytically until I succeed. I enjoy coding, whether it's for useful or educational projects, or just something I wanted to see if I could pull off. <br/><br/>
@@ -14,7 +13,7 @@ I'm 29 years old and originally from the Allgäu, Germany. I've studied physics 
 - 🎓 Physics, Data Science, Programming
 
 
-<br></br>
+<br>
 
 
 ## 🗂️ Projects
@@ -104,7 +103,7 @@ A practical command-line tool that helps Trackmania players check their medal pr
 Interactive web tool for visualizing how Fourier series approximate periodic waveforms with adjustable parameters.
 
 
-<br></br>
+<br>
 
 
 ## 💻 Technical Skills
@@ -139,7 +138,7 @@ Interactive web tool for visualizing how Fourier series approximate periodic wav
 - Analytical problem solving
 
 
-<br></br>
+<br>
 
 
 ## 📧 Contact me
