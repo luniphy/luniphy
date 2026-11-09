@@ -59,7 +59,7 @@ A cross-platform **.NET MAUI** app for workers to track their weekly working tim
 
 A console-based C++ task manager app using SQLite with optional MongoDB mirror.
 
-- Built to practice object-oriented programming, enums, user input handling and SQL/NoSQL integration.
+- Built to practice **object-oriented programming**, enums, user input handling and **SQL/NoSQL** integration.
 
 ---
 
@@ -86,7 +86,7 @@ A practical command-line tool that helps Trackmania players check their medal pr
 
 Interactive web tool for visualizing how Fourier series approximate periodic waveforms with adjustable parameters.
 
-- Built to practice web developement, numerical integration and to provide an educational visualization.
+- Built to practice **web developement**, numerical integration and to provide an educational visualization.
 
 
 <br>
